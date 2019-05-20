@@ -10,7 +10,7 @@ const authLogin = () => {
 const authSignup = () => {
   console.log("Signed up successfully!");
   if (window.localStorage.admin === "true") {
-    window.location.replace(".html");
+    window.location.replace("questionare.html");
   } else {
     window.location.replace("login.html");
   }
