@@ -1,0 +1,41 @@
+.container-fluid{
+    display: flex;
+    justify-content: space-between;
+    }
+    .navbar-header{
+      flex: 1;
+      /* margin-left: -12px; */
+    }
+    .gene{
+      flex: -5;
+    }
+    .container-fluid{
+      background-color: pink;
+    }
+    .form-group{
+      width: 30%;
+    }
+    .container{
+      margin: auto;
+      width: 80px;
+    }
+    .form-group{
+      margin: auto;
+    }
+    h2{
+      text-align: center;
+    }
+    .btn{
+      background-color: rgb(160, 224, 160);
+      margin-top: 15px;
+      width: 100%;
+    }
+    .footer-div{
+      height: 50px;
+      position: fixed;
+      background-color:pink;
+      color: black;
+      bottom: 0;
+      width: 100%;
+      text-align: center;
+    }
