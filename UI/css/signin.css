@@ -43,7 +43,7 @@
       width: 50%;
     }
     .text-area{
-      width: 50%;
+      /* width: 50%; */
       height: 200px;
       margin:  auto;
       display: flex;
