@@ -39,3 +39,13 @@
       width: 100%;
       text-align: center;
     }
+    .form-control{
+      width: 50%;
+    }
+    .text-area{
+      /* width: 50%; */
+      height: 200px;
+      margin:  auto;
+      display: flex;
+      justify-content: center;
+    }
